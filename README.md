@@ -33,5 +33,5 @@ Make sure your *main* branch is up to date with your most recent code.
   - What observations or questions do you have about what you've learned so far?
   - How long did it take you to complete this assignment? And, before you started, how long did you think it would take you to complete this assignment?
 
-
-ok
+### Lighthouse
+* ![Lighthouse score of 81](images/lighthouse-Nov-11-24.jpg)
